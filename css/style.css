@@ -3,8 +3,7 @@ hthtml {
 }
 @media screen and (min-width: 768px) {
   html {
-    font-size: 16px;
-  }
+    font-size: 16px}
 }
 a {
   color: #333;
@@ -73,14 +72,20 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 3rem;
+  font-size: 50px;
   height: 100%;
   letter-spacing: 0.3rem;
   color: white;
+  font-size: 50px;
 }
 
 .firstview-massage .blue {
-  color: #7eff38
+  color: #7eff38;
+  font-size: 50px;
+
+  
+
+
 }
 
 @media screen and (min-width: 768px) {
@@ -225,7 +230,7 @@ margin-top: 40px;
 .work-text {
 margin-top: 2rem;
 padding: 0 16px;
-width:50%;
+width: auto;
 }
 
 .work-title {
@@ -283,7 +288,7 @@ width:50%;
 }
 
 .contact-mail {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
